@@ -19,3 +19,5 @@ If you find this work helpful, please cite it as
 ```
 
 ATTN: This work is free for academic usage. For other purposes, please contact Xiaoping Wu (xpwu95@163.com).
+
+test文件是我自己写的，想看一下如何通过输入一张图片来判断痤疮的分级
